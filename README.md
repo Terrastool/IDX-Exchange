@@ -2,3 +2,7 @@ To begin CSVs lebeled with '_filled' should have their last two columns deleted,
 Written 1 loads all the data and prints their row count, then concatenates the two datasets (sold and listing) and lists their row counts.
 Further, the two data sets are filtered to only Residential Property Types then row counted once more.
 Then both are saved as CSVs for use in future weeks.
+
+Week 2/Written2.py
+Columns Values are analyzed and values with over 90% null rows are flagged.
+ClosePrice, DaysOnMarket, and Living Area are boxplotted and analyzed for means.
