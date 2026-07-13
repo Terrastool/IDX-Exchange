@@ -6,3 +6,8 @@ Then both are saved as CSVs for use in future weeks.
 Week 2/Written2.py
 Columns Values are analyzed and values with over 90% null rows are flagged.
 ClosePrice, DaysOnMarket, and Living Area are boxplotted and analyzed for means.
+
+Week 3/Written3.py
+Adds June values for listing and sold data sets.
+Dropped null columns from week 3.
+Pulled data from FRED to create a new variable then validated.
