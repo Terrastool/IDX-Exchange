@@ -11,3 +11,7 @@ Week 3/Written3.py
 Adds June values for listing and sold data sets.
 Dropped null columns from week 3.
 Pulled data from FRED to create a new variable then validated.
+
+Week 4/Written4.py
+Runs a variety of checks including event time order, numeric values not as strings, 
+and deleting illogical numeric entries for values like Bedrooms or Days on the Market.
