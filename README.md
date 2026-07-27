@@ -15,3 +15,6 @@ Pulled data from FRED to create a new variable then validated.
 Week 4/Written4.py
 Runs a variety of checks including event time order, numeric values not as strings, 
 and deleting illogical numeric entries for values like Bedrooms or Days on the Market.
+
+Week 5/Written5.py
+Creates a variable called District Name which uses school district regions to place homes in groupings using geo data.
