@@ -23,3 +23,6 @@ Week 6/Written6.py
 Makes sure that flags are in place for Coordinate Issues rather than dropping rows.
 Creates new values (Price Ratio, Price Per Sqr Feet, Close to Original List Ratio, Listing to Contract Days, and Contract to Close Days) 
 using formulas and generates summary statistics tables for 6 groupings (Property Type, Property Sub Type, County or Parish, MLS Area Major, List Office Name, and Buyer Office Name).
+
+Week 7/Written7.py
+Creates two datasets: one where outliers for Close Price, Living Area, and Days on Market are flagged and one where outliers are deleted.
